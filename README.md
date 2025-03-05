@@ -18,3 +18,5 @@ ENEM is a national test run by the Brazilian government, in order to grant schol
 ## To execute
 
 To run this project, you will need at least Python 3.8 or higher. Just run "MEDIA.py".
+
+![Image](https://github.com/user-attachments/assets/136afd23-e607-4d9c-9db3-39dcaef638dd)
